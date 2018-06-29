@@ -15,7 +15,7 @@ This identifier has 6 options:
   * `LAYING` - subject was laying
   
 ## Measurements
-The following measurements were included in the dataset:
+The following measurements were included in the data set:
 
 * `timeBodyAcc.mean.XYZ`
 * `timeBodyAcc.std.XYZ` 
